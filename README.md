@@ -5,8 +5,12 @@
 
 ## resultat
 
+ la page d'interface 
 ![Screenshot](INterface.PNG)
 
+ 
+ Ajouter une tache 
 ![Screenshot](AddTache.PNG)
 
+Modifier une tache
 ![Screenshot](ModifierTache.PNG)
