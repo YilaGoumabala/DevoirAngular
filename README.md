@@ -25,6 +25,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## resultat
 
-![Screenshot](INterface.png)
+![Screenshot](INterface.PNG)
 
 
